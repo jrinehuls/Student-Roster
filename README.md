@@ -1,2 +1,2 @@
 # Student-Roster
-WGU Scripting and Programming - Applications
+C++ Project for the Scripting and Programming - Applications course at WGU
